@@ -1,1 +1,1 @@
-The file compvis1.py imports Opencv and Mediapipe to track your hand. The code pretty much landmarks your hand.
+The file compvis1.py imports Opencv and Mediapipe to track your hand. The code pretty much landmarks your hand. And you also need Python 3.10 to use it as Mediapipe does not work on more newer version of python.
