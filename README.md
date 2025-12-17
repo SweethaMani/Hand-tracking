@@ -1,1 +1,1 @@
-The file compvis1.py imports Opencv and Mediapipe to track your hand. The code pretty much landmarks your hand. And you also need Python 3.10 to use it as Mediapipe does not work on more newer version of python.
+The file compvis2.py imports cv2, pyautogui, math, and Mediapipe to track your hand. The code pretty much landmarks your hand and uses the camera to landmark your hand. By moving your hand around, you can control your mouse. And you also need Python 3.10 to use it as Mediapipe does not work on newer versions of Python.
